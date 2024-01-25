@@ -19,4 +19,4 @@ Well!
 1. You can (probably) copy the code, insert the SQL database, and try running it for yourself locally *or*
 2. Hopefully soon, you can visit it online. (Once I've gotten around to hosting it myself ;) )
 
-**Bonus points for anyone who recognizes the names of the team members! ** 
+**Bonus points for anyone who recognizes the names of the team members!** 
